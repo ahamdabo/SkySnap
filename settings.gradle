@@ -1,0 +1,1 @@
+include ':app', ':litepal-1.2.0'
