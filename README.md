@@ -28,3 +28,5 @@ Validating the photo capture angle using sensors shall works as shown below..
 The server side would provide data visualized in a way as follow
 ![Alt text](https://s3.amazonaws.com/media-p.slid.es/uploads/saadzanfal/images/1262089/Server.jpg "WebGL Globe")
 
+
+*This app was built during NASA Space App Challenge in Cairo April 2015
